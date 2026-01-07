@@ -1,0 +1,9 @@
+{
+  "name": "strava-webhook-receiver",
+  "version": "1.0.0",
+  "description": "Webhook receiver for Believe Challenge Strava integration",
+  "main": "api/webhook.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
